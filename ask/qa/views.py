@@ -1,5 +1,5 @@
 from django.http import HttpResponse
 
 
-def test():
+def test(request):
     return HttpResponse('OK')
