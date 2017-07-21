@@ -97,7 +97,3 @@ ENV/
 
 #JetBrains
 .idea/
-
-#Django
-*.sqlite3
-migrations/
