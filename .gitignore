@@ -99,4 +99,5 @@ ENV/
 .idea/
 
 #Django
-#*.sqlite3
+*.sqlite3
+migrations/
