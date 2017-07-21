@@ -100,4 +100,3 @@ ENV/
 
 #Django
 #*.sqlite3
-migrations/
